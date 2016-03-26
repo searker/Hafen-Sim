@@ -23,3 +23,8 @@ $RECYCLE.BIN/
 # AutoHotkey
 *.session
 *.bak
+
+# Images
+*.png
+*.jpg
+*.gif
